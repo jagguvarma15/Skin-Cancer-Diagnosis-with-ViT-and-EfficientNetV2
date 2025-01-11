@@ -1,5 +1,5 @@
 # Skin-Cancer-Diagnosis-with-ViT-and-EfficientNetV2
-Hair Removal Algorith and Transfer Learning
+Hair Removal Algorithm and Transfer Learning
 <br>Dataset: https://lnkd.in/gNam-NpD
 
 🔍 Project Insights: In this Research, I explored cutting-edge techniques in deep learning to advance the accuracy and efficiency of skin cancer diagnosis. Leveraging EfficientNetV2's strategic architecture adjustments and Vision Transformers self-attention mechanisms, I aimed to capture intricate patterns in skin images, surpassing limitations of traditional methods.
